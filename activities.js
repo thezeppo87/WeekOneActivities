@@ -23,22 +23,30 @@ for(let i = 0; i < 6; i++) {
 }
 console.log(numbers)
 
+// Activity Four
+
+
+// Activity Five
+
+
+
 // Activity Six
 
 let password = "scooby"
 
 if(password.length <= 7){
     console.log("You need a longer password")
-} else
-{console.log(password)
+} else{
+    console.log(password)
 }
 
 
 // Activity Seven
+
 let number = 15
 
 if(number % 3 == 0 || num % 5 == 0){
     console.log("This number is divisible by three or five")
-} else
-{console.log("This number is not divisible by three or five")
+} else {
+    console.log("This number is not divisible by three or five")
 }
